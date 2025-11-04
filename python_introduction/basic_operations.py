@@ -1,5 +1,5 @@
-number1 = 40,
-number2 = 300,
+number1 = 5
+number2 = 300
 
 addition = number1 + number2
 subtraction = number1 - number2
