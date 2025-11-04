@@ -1,8 +1,9 @@
-principal = int(1000)
-rate = float(0.05)
-time = int(3)
+# simple_interest.py
 
-interest = int(principal*rate*time)
+principal = 1000
+rate = 0.05
+time = 3
 
-print(f"The simple interest is: {interest}")
+interest = principal * rate * time
 
+print("The simple interest is:", interest)
